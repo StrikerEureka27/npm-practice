@@ -1,0 +1,23 @@
+{
+  "name": "random-message27",
+  "version": "1.0.0",
+  "description": "Random message",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javasrcript",
+    "npm",
+    "node"
+  ],
+  "author": "StrikerEureka27",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
