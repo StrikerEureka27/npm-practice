@@ -292,5 +292,15 @@ Now to publish
 
 ```
 npm publish
+
+## delete publication
+
+npm unpublish -f
+```
+
+In case of change 
+
+```
+npm version [patch][minor][major]
 ```
 
